@@ -29,7 +29,7 @@ class DatabaseSeeder extends Seeder
             CURLOPT_CUSTOMREQUEST => "GET",
             CURLOPT_HTTPHEADER => [
                 "x-rapidapi-host: random-recipes.p.rapidapi.com",
-                "x-rapidapi-key: 9a1d8b21a7msh1533fdb16734e85p1c639djsn4f4618d5cf7d"
+                "x-rapidapi-key: "
             ],
         ]);
 
